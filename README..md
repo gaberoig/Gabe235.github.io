@@ -1,4 +1,4 @@
-html>
+<html>
 	<head>
 		<center>
 		<title>Fez The Kitten</title>
