@@ -1,4 +1,4 @@
-<html>
+html>
 	<head>
 		<center>
 		<title>Fez The Kitten</title>
@@ -8,6 +8,9 @@
 	
 	</head>
 	<body>
+	
+	
+	
 <center>
 <H1>Fezzik, the <I>fluffliest</I> kitten east of the Mississippi</H1>
 <H2>Profesional napper and elite chair climber</H2>
